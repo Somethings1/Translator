@@ -1,0 +1,12 @@
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\bin\Debug\Translate.exe.config
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\bin\Debug\Translate.exe
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\bin\Debug\Translate.pdb
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\bin\Debug\DarrenLee.Translator.dll
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.Form1.resources
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.exe
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.pdb
+i:\tai lieu cua toi\visual studio 2012\Projects\Translate\Translate\obj\Debug\Translate.Form2.resources
+I:\Tai lieu cua toi\Visual Studio 2012\Projects\Translate\Translate\obj\Debug\Translate.Form3.resources
